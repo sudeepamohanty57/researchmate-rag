@@ -11,7 +11,6 @@ The application uses a **Retrieval-Augmented Generation (RAG)** pipeline to extr
 Research papers can be long and difficult to analyze manually. ResearchMate simplifies this process by allowing users to upload a research paper and interact with it using natural language questions.
 
 The system follows this workflow:
-
 ```text
 📄 Upload Research Paper
         ↓
