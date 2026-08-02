@@ -201,6 +201,22 @@ The application rewrites follow-up questions into standalone questions before re
 
 ---
 
+## 🖥️ Application Screenshots
+
+### 📚 ResearchMate Dashboard
+
+The main interface allows users to upload a research paper, view document information, and interact with the paper using natural language.
+
+![ResearchMate Dashboard](researchmate-dashboard.png)
+
+### 💬 Research Paper Question Answering
+
+ResearchMate retrieves relevant sections from the uploaded research paper and generates an answer using the local Llama 3.2 model.
+
+![ResearchMate Q&A](researchmate-qa.png)
+
+---
+
 ## 📝 Research Paper Summary
 
 ResearchMate can generate a structured summary of an uploaded research paper.
